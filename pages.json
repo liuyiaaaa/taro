@@ -1,0 +1,120 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/nav/index",
+      "style": {
+        "navigationBarTitleText": "探索"
+      }
+    },
+    {
+      "path": "pages/discover/index",
+      "style": {
+        "navigationBarTitleText": "发现"
+      }
+    },
+    {
+      "path": "pages/me/index",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/wenti/index",
+      "style": {
+        "navigationBarTitleText": "问题"
+      }
+    },
+    {
+      "path": "pages/jing/index",
+      "style": {
+        "navigationBarTitleText": "景点"
+      }
+    },
+    {
+      "path": "pages/meishi/index",
+      "style": {
+        "navigationBarTitleText": "美食"
+      }
+    },
+    {
+      "path": "pages/zhu/index",
+      "style": {
+        "navigationBarTitleText": "住宿"
+      }
+    },
+    {
+      "path": "pages/wan/index",
+      "style": {
+        "navigationBarTitleText": "玩乐"
+      }
+    },
+    {
+      "path": "pages/caizhai/index",
+      "style": {
+        "navigationBarTitleText": "采摘"
+      }
+    },
+    {
+      "path": "pages/service/index",
+      "style": {
+        "navigationBarTitleText": "服务"
+      }
+    },
+    {
+      "path": "pages/techan/index",
+      "style": {
+        "navigationBarTitleText": "特产"
+      }
+    },
+    {
+      "path": "pages/shangchao/index",
+      "style": {
+        "navigationBarTitleText": "商超"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ed7373"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#7E9CF4",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/icons/home.png",
+        "selectedIconPath": "static/icons/home-fill.png"
+      },
+      {
+        "pagePath": "pages/nav/index",
+        "text": "探索",
+        "iconPath": "static/icons/loc.png",
+        "selectedIconPath": "static/icons/loc-fill.png"
+      },
+      {
+        "pagePath": "pages/discover/index",
+        "text": "发现",
+        "iconPath": "static/icons/discover.png",
+        "selectedIconPath": "static/icons/discover-fill.png"
+      },
+      {
+        "pagePath": "pages/me/index",
+        "text": "我的",
+        "iconPath": "static/icons/user.png",
+        "selectedIconPath": "static/icons/user-fill.png"
+      }
+    ]
+  }
+} 
